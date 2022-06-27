@@ -15,3 +15,4 @@
 - ASLR 
 - NX / DEP
 - CFI
+- Hardware Tagged Memory
