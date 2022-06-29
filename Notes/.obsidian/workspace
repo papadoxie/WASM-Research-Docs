@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
+            "file": "Everything Old is New Again Binary Security of WebAssembly (2020).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
+                "file": "Everything Old is New Again Binary Security of WebAssembly (2020).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,13 @@
   },
   "active": "cd3057c145d2d785",
   "lastOpenFiles": [
-    "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
+    "Everything Old is New Again Binary Security of WebAssembly (2020).md",
+    "Memory Safety Preservation for WebAssembly (2019).md",
     "Papers.md",
+    "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
     "Vulnerabilities.md",
     "Technology Used.md",
     "Security Terminology.md",
-    "Everything Old is New Again Binary Security of WebAssembly (2020).md",
     "An Empirical Study of Real-World WebAssembly Binaries (2021).md",
     "Mitigations.md",
     "Links.md"
