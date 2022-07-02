@@ -1,5 +1,8 @@
 # Technology Used
 
+## Compilers
+- Emscripten (C / C++)
+
 ## Allocators
 ### Default
 - dlmalloc (Emscripten etc.) (usage 16.9% Hilbig et al.)
