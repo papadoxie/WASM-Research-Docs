@@ -5,6 +5,10 @@
 - [Memory Safety](https://github.com/WebAssembly/design/blob/main/Security.md#memory-safety)
 - [Understanding WASM Text Format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format)
 
+## [[Tools]]
+- [WASM Binary Toolkit](https://github.com/WebAssembly/wabt)
+
+
 ## Binary Mitigations
 - [CFI/CFG](https://docs.microsoft.com/en-us/windows/win32/secbp/control-flow-guard)
 
