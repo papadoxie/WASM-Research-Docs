@@ -5,7 +5,7 @@
 
 ## Pre 2020
 - Memory safety: old vulnerabilities become new with WebAssembly (2018)
-- Security Chasms of WASM. NCC Group Whitepaper (2018)
+- [[Security Chasms of WASM. NCC Group Whitepaper (2018)]]
 - WebAssembly doesn’t make unsafe languages safe (yet) (2018).
 - ~~[[Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019)]]~~
 - [[Memory Safety Preservation for WebAssembly (2019)]]

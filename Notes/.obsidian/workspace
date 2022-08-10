@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools.md",
+            "file": "Security Chasms of WASM. NCC Group Whitepaper (2018).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "Security Chasms of WASM. NCC Group Whitepaper (2018).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "cd3057c145d2d785",
   "lastOpenFiles": [
-    "Links.md",
+    "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
+    "Memory Safety Preservation for WebAssembly (2019).md",
+    "Security Chasms of WASM. NCC Group Whitepaper (2018).md",
+    "Papers.md",
+    "Everything Old is New Again Binary Security of WebAssembly (2020).md",
     "Tools.md",
+    "Links.md",
     "Technology Used.md",
     "An Empirical Study of Real-World WebAssembly Binaries (2021).md",
-    "Papers.md",
-    "Memory Safety Preservation for WebAssembly (2019).md",
-    "Vulnerabilities.md",
-    "Security Terminology.md",
-    "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
-    "Everything Old is New Again Binary Security of WebAssembly (2020).md"
+    "Vulnerabilities.md"
   ]
 }
