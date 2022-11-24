@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "4a190ed73c9d47a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf42fe5b2fb905f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd3057c145d2d785",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "17d94021529a2cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Write-Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51602848efb31b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "425cc85a45d4fcfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707ce945a5080da8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8943fa1c9774eac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "6ef7aca3d2558935",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b4d40cc77c850ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c5955a36631ac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Write-Up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "17d94021529a2cb9",
+  "lastOpenFiles": [
+    "Write-Up.md",
+    "Vulnerabilities.md",
+    "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
+    "Links.md",
+    "Technology Used.md",
+    "Tools.md",
+    "An Empirical Study of Real-World WebAssembly Binaries (2021).md",
+    "Security Chasms of WASM. NCC Group Whitepaper (2018).md",
+    "Security Terminology.md",
+    "Everything Old is New Again Binary Security of WebAssembly (2020).md"
+  ]
+}
