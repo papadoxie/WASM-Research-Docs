@@ -106,6 +106,7 @@
   },
   "active": "17d94021529a2cb9",
   "lastOpenFiles": [
+    "Pasted image 20221124052538.png",
     "Write-Up.md",
     "Vulnerabilities.md",
     "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
@@ -114,7 +115,6 @@
     "Tools.md",
     "An Empirical Study of Real-World WebAssembly Binaries (2021).md",
     "Security Chasms of WASM. NCC Group Whitepaper (2018).md",
-    "Security Terminology.md",
-    "Everything Old is New Again Binary Security of WebAssembly (2020).md"
+    "Security Terminology.md"
   ]
 }
