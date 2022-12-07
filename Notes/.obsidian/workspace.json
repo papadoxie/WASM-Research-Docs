@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf42fe5b2fb905f9",
+        "id": "aa4aaf88739bf22e",
         "type": "tabs",
         "children": [
           {
-            "id": "cd3057c145d2d785",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "17d94021529a2cb9",
+            "id": "afdb9735ae0a3322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write-Up.md",
+                "file": "Write-Up/Binaries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write-Up.md",
+                "file": "Write-Up/Binaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17d94021529a2cb9",
+  "active": "afdb9735ae0a3322",
   "lastOpenFiles": [
-    "Pasted image 20221124052538.png",
-    "Write-Up.md",
-    "Vulnerabilities.md",
-    "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
+    "Write-Up/Background.md",
+    "Mitigations.md",
     "Links.md",
-    "Technology Used.md",
-    "Tools.md",
-    "An Empirical Study of Real-World WebAssembly Binaries (2021).md",
-    "Security Chasms of WASM. NCC Group Whitepaper (2018).md",
-    "Security Terminology.md"
+    "Write-Up/WebAssembly Internals.md",
+    "Write-Up/Compilation.md",
+    "Write-Up/Binaries.md",
+    "Write-Up/Debugging.md",
+    "Write-Up/Environments.md",
+    "Pasted image 20221124052538.png",
+    "Vulnerabilities.md"
   ]
 }
