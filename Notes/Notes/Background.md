@@ -15,3 +15,7 @@ When a WebAssembly binary is run, there are 4 main concepts to be aware of ([htt
 [https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API#memory](https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API#memory)
 
 Each WASM module has its own sandboxed memory space which can be created manually in JavaScript using the WebAssembly.Memory() object constructor
+
+
+[[Introduction|Previous]]  
+[[Environments|Next]]

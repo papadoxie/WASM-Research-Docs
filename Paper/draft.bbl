@@ -1,0 +1,169 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Haas2017}{article}{}
+      \name{author}{9}{}{%
+        {{hash=d285745edf3df63d50a2aaae6417e9de}{%
+           family={Haas},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e41d0523c45d34fc1a4630ae8dfa1b45}{%
+           family={Rossberg},
+           familyi={R\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a1a9ac6abb10a490a1c600fd3fb50bfd}{%
+           family={Schuff},
+           familyi={S\bibinitperiod},
+           given={Derek\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c4ede8193f4de30bb8c003babb575025}{%
+           family={Titzer},
+           familyi={T\bibinitperiod},
+           given={Ben\bibnamedelima L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f1b7c048a233f995f54161e39cb6b1f7}{%
+           family={Holman},
+           familyi={H\bibinitperiod},
+           given={Micheal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0033c00a4ac7e8d28588850ff2892879}{%
+           family={Gohman},
+           familyi={G\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3b04ed2ed09df1fb347c7c6a307b856f}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c4cfe1bc600036ecf862fcbdf7b6d1cf}{%
+           family={Zakai},
+           familyi={Z\bibinitperiod},
+           given={Alon},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6ed048f7e52d9b7495c2c1155343cba0}{%
+           family={Bastien},
+           familyi={B\bibinitperiod},
+           given={JF},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fcf5db0d071ed558eeb0272fdd59d86}
+      \strng{fullhash}{c29b019e487b4c5c670db1c09ce73354}
+      \strng{bibnamehash}{0fcf5db0d071ed558eeb0272fdd59d86}
+      \strng{authorbibnamehash}{0fcf5db0d071ed558eeb0272fdd59d86}
+      \strng{authornamehash}{0fcf5db0d071ed558eeb0272fdd59d86}
+      \strng{authorfullhash}{c29b019e487b4c5c670db1c09ce73354}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLDI '17: Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation}
+      \field{title}{Bringing the Web Up to Speed with WebAssembly}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3062341.3062363
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3062341.3062363
+      \endverb
+    \endentry
+    \entry{Lehmann2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a95679da7af53ed3c69c4b4f946f9da7}{%
+           family={Lehmann},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e5865f16c29962fc559b0bc5aabec107}{%
+           family={Kinder},
+           familyi={K\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=862571674423e73a60c8076124bb119a}{%
+           family={Pradel},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{be8e96678611303d1f68b6399ab40120}
+      \strng{fullhash}{be8e96678611303d1f68b6399ab40120}
+      \strng{bibnamehash}{be8e96678611303d1f68b6399ab40120}
+      \strng{authorbibnamehash}{be8e96678611303d1f68b6399ab40120}
+      \strng{authornamehash}{be8e96678611303d1f68b6399ab40120}
+      \strng{authorfullhash}{be8e96678611303d1f68b6399ab40120}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 29th USENIX Security Symposium}
+      \field{title}{Everything Old is New Again: Binary Security of WebAssembly}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.usenix.org/system/files/sec20-lehmann.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.usenix.org/system/files/sec20-lehmann.pdf
+      \endverb
+    \endentry
+    \entry{Stievenart2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=07ba823b530b80cc845e8c621bed81cf}{%
+           family={Stievenart},
+           familyi={S\bibinitperiod},
+           given={Quentin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=2af718fde733b4ea7c7c031589e9bea2}{%
+           family={Roover},
+           familyi={R\bibinitperiod},
+           given={Coen\bibnamedelima De},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2171d0543a18132774f058925ac6acee}{%
+           family={Ghafari},
+           familyi={G\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{503b1fbffe84ae0183373d5189875e71}
+      \strng{fullhash}{503b1fbffe84ae0183373d5189875e71}
+      \strng{bibnamehash}{503b1fbffe84ae0183373d5189875e71}
+      \strng{authorbibnamehash}{503b1fbffe84ae0183373d5189875e71}
+      \strng{authornamehash}{503b1fbffe84ae0183373d5189875e71}
+      \strng{authorfullhash}{503b1fbffe84ae0183373d5189875e71}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SAC '22: Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing}
+      \field{title}{Security Risks of Porting C Programs to WebAssembly}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3477314.3507308
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3477314.3507308
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
