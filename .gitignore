@@ -1,4 +1,12 @@
 dataset/*
 *.pdf
 *.tex
-Paper/
+*.aux
+*.bbl
+*.bcf 
+*.blg
+*.aux
+*.run.xml
+*.out
+*.log
+
