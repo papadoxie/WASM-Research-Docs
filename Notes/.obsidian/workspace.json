@@ -11,12 +11,8 @@
             "id": "afdb9735ae0a3322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +101,15 @@
   },
   "active": "afdb9735ae0a3322",
   "lastOpenFiles": [
+    "Write-Up/Compilation.md",
+    "Write-Up/Binaries.md",
+    "Write-Up/Background.md",
+    "Notes/Exploitation/Buffer-Overflow.md",
+    "Papers.md",
     "Mitigations.md",
     "Memory Safety Preservation for WebAssembly (2019).md",
     "Links.md",
     "Everything Old is New Again Binary Security of WebAssembly (2020).md",
-    "An Empirical Study of Real-World WebAssembly Binaries (2021).md",
-    "Write-Up/Background.md",
-    "Position Paper Progressive Memory Safety for WebAssembly. In HASP (2019).md",
-    "Write-Up/WebAssembly Internals.md",
-    "Write-Up/Compilation.md",
-    "Write-Up/Binaries.md"
+    "An Empirical Study of Real-World WebAssembly Binaries (2021).md"
   ]
 }
